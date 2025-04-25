@@ -26,3 +26,5 @@ class Solution:
 
 
 print(Solution().longestPalindrome('abacdedcxyzyxpopoo'))
+# ['aba', 'cdedc', 'xyzyx', 'pop', 'oo']
+# 將不重複的回文段輸出
